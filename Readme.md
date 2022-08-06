@@ -1,6 +1,6 @@
 # Writing Board
 
-### Preview:: https://shreya-0999.github.io/Writing-Board/
+### Preview:: 
 ### Description
 
 It is a web-based drawing board application. The basic functionality of this application are:- 
